@@ -55,7 +55,7 @@ naver_site_verification:
 # Site Author
 author:
   name: "Minto"
-  avatar: "/assets/images/bio-photo.jpg" # 실제 파일 경로 확인 필요
+  avatar: "/assets/images/profile.jpeg" # 실제 파일 경로 확인 필요
   bio: "3년차 프론트엔드 개발자"
   location: "Korea"
   email: "xpeed96@gmail.com"
