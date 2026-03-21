@@ -103,6 +103,7 @@ exclude:
   - test/
   - /docs/
   - /test/
+  - CHANGELOG.md
 
 # Conversion & Markdown
 markdown: kramdown
